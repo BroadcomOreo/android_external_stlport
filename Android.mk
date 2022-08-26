@@ -2,6 +2,7 @@
 # Whitelist devices that are still allowed to use stlport. This will prevent any
 # new devices from making the same mistakes.
 STLPORT_WHITELIST := \
+    kyleproxx\
     deb \
     flo \
     flounder \
